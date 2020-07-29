@@ -2,7 +2,7 @@ git is a version control system
 git is free software
 
 mkdir rootname
-pwd   show file path
+pwd   /show file path
 cd D:
 cd file path
 git add filename
@@ -14,3 +14,16 @@ git diff
 
 git log 
 git log --pretty=oneline
+
+head current loaction
+git reset --hard head
+git reset --hard head^
+git reset --hard head^^
+git reset --hard commit_id
+
+git log    / show all fix detail log
+git reflog   / show all commit_id log
+
+reset   / complete back and  before
+
+
