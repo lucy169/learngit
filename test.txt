@@ -13,4 +13,4 @@ git status
 git diff
 
 git log 
-git --pretty=online
+git log --pretty=oneline
