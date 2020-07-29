@@ -26,4 +26,5 @@ git reflog   / show all commit_id log
 
 reset   / complete back and  before
 
+git branch description
 

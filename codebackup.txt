@@ -1,0 +1,13 @@
+mkdir rootname
+pwd   show file path
+cd D:
+cd file path
+git add filename
+git commit -m "description"
+
+
+git status
+git diff
+
+git log 
+git log --pretty=oneline
